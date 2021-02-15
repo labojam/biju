@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Es tur biju.</title>
+    <link href="https://biju.lv/feed.xml" rel="self" />
+    <link href="https://biju.lv" />
+    <updated>2021-02-15T14:04:19+02:00</updated>
+    <author>
+        <name>es</name>
+    </author>
+    <id>https://biju.lv</id>
+
+    <entry>
+        <title>Stirna</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/stirna/"/>
+        <id>https://biju.lv/stirna/</id>
+            <category term="Tvaika iela 2"/>
+            <category term="RPNC"/>
+
+        <updated>2021-02-15T13:59:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Atkarībā no personāla, dažreiz iejūtīga attieksme, citreiz ne. Piespiešana pie gultas ilglaicīgi, siltas segas trūkums. Ne vienmēr tika paskaidrots, ko ar mani darīs un, kur vedīs. Ar neatliekamo medicīnisko palīdzību. Smagā, ne pie apziņas. Apmierinoša. Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Atkarībā no personāla, dažreiz iejūtīga attieksme , citreiz ne. Piespiešana pie gultas ilglaicīgi, siltas segas trūkums. Ne vienmēr tika paskaidrots, ko ar mani darīs un, kur vedīs. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Atkarībā no personāla, dažreiz iejūtīga attieksme, citreiz ne. Piespiešana pie gultas ilglaicīgi, siltas segas trūkums. Ne vienmēr tika paskaidrots, ko ar mani darīs un, kur vedīs.</span></p>
+</blockquote>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kā Jūs nokļuvāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kā Jūs nokļuvāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ar Neatliekamo medicīnisko palīdzību&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Ar neatliekamo medicīnisko palīdzību.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kādā stāvoklī nonācāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kādā stāvoklī nonācāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Smagā, ne pie apziņas&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Smagā, ne pie apziņas.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai medicīniskā aprūpe kopumā bija apmierinoša? (iespējamas vairākas atbildes) &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai medicīniskā aprūpe kopumā bija apmierinoša?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Apmierinoša&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Apmierinoša.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kurā nodaļā Jūs uzturējāties? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kurā nodaļā Jūs uzturējāties? </span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes, depresijas, šizofrēnijas, utml&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes, depresijas, šizofrēnijas, u.tml.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cik ilgu laiku uzturējāties slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Cik ilgu laiku uzturējāties slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 mēnešus&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">3 mēnešus</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms 13 gadiem&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pirms 13 gadiem</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? </span></h4>
+<p class="msg msg--warning"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Nē</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Es esmu cilvēks un es tur biju.</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/es/"/>
+        <id>https://biju.lv/es/</id>
+            <category term="Raksti"/>
+
+        <updated>2021-02-15T14:04:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Kas ir biju.lv?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kas ir biju.lv?</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
