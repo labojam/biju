@@ -1,14 +1,209 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>es tur biju.</title>
+    <title>es tur biju</title>
     <link href="https://biju.lv/feed.xml" rel="self" />
     <link href="https://biju.lv" />
-    <updated>2021-02-15T15:22:45+02:00</updated>
+    <updated>2021-02-15T16:25:07+02:00</updated>
     <author>
         <name>es</name>
     </author>
     <id>https://biju.lv</id>
 
+    <entry>
+        <title>Dace</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/dace/"/>
+        <id>https://biju.lv/dace/</id>
+            <category term="Tvaika iela 2"/>
+            <category term="RPNC"/>
+            <category term="Nē"/>
+
+        <updated>2021-02-15T16:23:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Māsa nonāca tīņu vecumā un tika ielikta kopā ar citam smagākām pacientēm. Māsai vairāk bija depresija, trauksme. Bet vieglā formā. Viņai jau 35 gadi tagad un tā arī nesaprotu, kurš ārsts uzdrīkstējās viņu ievietot tur, bez psihologu vai psihoterapijas izmēģināšanas. Vienkārši bez jebkādām terapijām vai konsultācijām. Tur biju ciemos pie viņas, un tas ka cilvēks depresīvs, bet ne sajucis prātā tiek ielikts kopā ar šizofrēniķiem un smagiem pacientiem - nekad, nekad - nekad nekļūs par kripatu veselāks. Man liekas viņa aizmirsa visas depresijas un raudāja jo gribēja būt mājās, jo slimnīcā uzturēties bija kā no šausmenes. Baisi, neomulīgi. Tur veselu saprātu nekādi nevar dabūt. Bija sajūta, ka nevis tur tiek ārstēti, bet gan tie cilvēki tur tiek izolēti no sabiedrības, bet noteikti neārstē. Jo tur vesels nevar palikt. Ļoti jānodala nodaļas. Un sākumā striktas psihoterapijas terapijas un konsultācijas un tad pēdējais variants tur slimnīcā. Un noteiktā nodaļā nevis depresīvs cilvēks, kuram dzīvē kāds notikums kuram jātiek pāri, kopā tiek salikts ar tanti, kas redz rēgus un baložus un runā ar viņiem un met iedomātu barību. Tas bija trakāk kā slimnīcas reanimācijas nodaļa. Mentāli smagāk. Šis ir kāda cita stāsts. Neatrisināja ierašanās iemeslu. Man māsa bija pirms apmēram 20 gadiem. Nē
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Māsa nonāca tīņu vecumā un tika ielikta kopā ar citam smagākām pacientēm. Māsai vairak bij depresija,trauksme. Bet vieglā formā. Viņai jau 35 g tagad un tā ari nesaprotu,kurš ārsts uzdrīkstējās viņu ievietot tur,bez psihologu vai psihoterapijas izmēģināsanas. Vnk bez jebkādām terapijam vai konsultācijām. Tur biju ciemos pie viņas,un tas ka cilveks depresīvs bet ne sajucis pārtā tiek ielikts kopā ar šizofrēniķiem un smagiem pacientiem-nekad,nekad-nekad nekļūs par kripatu veselāks. Man liekas viņa aizmirsa visas depresijas un raudāja jo gribēja but majas,jo slimnicā uztureties bij kā no šausmenes. Baisi,neomuligi. Tur veselu saprātu nekādies nevar dabūt. Bij sajuta,ka nevis tur tiek ārstēti,bet gan tie cilveki tur tiek izoleto no sabiedrības,bet noteikt neārstē. Jo tur vesels nevar palikt. Ļoti janodala nodaļas. Un sākumā striktas  psihoterapijas terapijas un konsultācijas un tad pedejais variants tur slimnica. Un noteiktā nodaļā nevis depresīvs cilvēks kuram dzīvē kāds notikums kuram jātiek pāri,kopa tiek salikts ar tanti kas redz rēgus un baložus un runā ar viņiem un met iedomātu barību. Tas bij trakāk kā slimnīcas reanimācijas nodaļa. Mentāli smagāk. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Māsa nonāca tīņu vecumā un tika ielikta kopā ar citam smagākām pacientēm. Māsai vairāk bija depresija, trauksme. Bet vieglā formā. Viņai jau 35 gadi tagad un tā arī nesaprotu, kurš ārsts uzdrīkstējās viņu ievietot tur, bez psihologu vai psihoterapijas izmēģināšanas. Vienkārši bez jebkādām terapijām vai konsultācijām. </span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Māsa nonāca tīņu vecumā un tika ielikta kopā ar citam smagākām pacientēm. Māsai vairak bij depresija,trauksme. Bet vieglā formā. Viņai jau 35 g tagad un tā ari nesaprotu,kurš ārsts uzdrīkstējās viņu ievietot tur,bez psihologu vai psihoterapijas izmēģināsanas. Vnk bez jebkādām terapijam vai konsultācijām. Tur biju ciemos pie viņas,un tas ka cilveks depresīvs bet ne sajucis pārtā tiek ielikts kopā ar šizofrēniķiem un smagiem pacientiem-nekad,nekad-nekad nekļūs par kripatu veselāks. Man liekas viņa aizmirsa visas depresijas un raudāja jo gribēja but majas,jo slimnicā uztureties bij kā no šausmenes. Baisi,neomuligi. Tur veselu saprātu nekādies nevar dabūt. Bij sajuta,ka nevis tur tiek ārstēti,bet gan tie cilveki tur tiek izoleto no sabiedrības,bet noteikt neārstē. Jo tur vesels nevar palikt. Ļoti janodala nodaļas. Un sākumā striktas  psihoterapijas terapijas un konsultācijas un tad pedejais variants tur slimnica. Un noteiktā nodaļā nevis depresīvs cilvēks kuram dzīvē kāds notikums kuram jātiek pāri,kopa tiek salikts ar tanti kas redz rēgus un baložus un runā ar viņiem un met iedomātu barību. Tas bij trakāk kā slimnīcas reanimācijas nodaļa. Mentāli smagāk. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Tur biju ciemos pie viņas, un tas ka cilvēks depresīvs, bet ne sajucis prātā tiek ielikts kopā ar šizofrēniķiem un smagiem pacientiem - nekad, nekad - nekad nekļūs par kripatu veselāks. Man liekas viņa aizmirsa visas depresijas un raudāja jo gribēja būt mājās, jo slimnīcā uzturēties bija kā no šausmenes. Baisi, neomulīgi. Tur veselu saprātu nekādi nevar dabūt. Bija sajūta, ka nevis tur tiek ārstēti, bet gan tie cilvēki tur tiek izolēti no sabiedrības, bet noteikti neārstē. Jo tur vesels nevar palikt. </span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Māsa nonāca tīņu vecumā un tika ielikta kopā ar citam smagākām pacientēm. Māsai vairak bij depresija,trauksme. Bet vieglā formā. Viņai jau 35 g tagad un tā ari nesaprotu,kurš ārsts uzdrīkstējās viņu ievietot tur,bez psihologu vai psihoterapijas izmēģināsanas. Vnk bez jebkādām terapijam vai konsultācijām. Tur biju ciemos pie viņas,un tas ka cilveks depresīvs bet ne sajucis pārtā tiek ielikts kopā ar šizofrēniķiem un smagiem pacientiem-nekad,nekad-nekad nekļūs par kripatu veselāks. Man liekas viņa aizmirsa visas depresijas un raudāja jo gribēja but majas,jo slimnicā uztureties bij kā no šausmenes. Baisi,neomuligi. Tur veselu saprātu nekādies nevar dabūt. Bij sajuta,ka nevis tur tiek ārstēti,bet gan tie cilveki tur tiek izoleto no sabiedrības,bet noteikt neārstē. Jo tur vesels nevar palikt. Ļoti janodala nodaļas. Un sākumā striktas  psihoterapijas terapijas un konsultācijas un tad pedejais variants tur slimnica. Un noteiktā nodaļā nevis depresīvs cilvēks kuram dzīvē kāds notikums kuram jātiek pāri,kopa tiek salikts ar tanti kas redz rēgus un baložus un runā ar viņiem un met iedomātu barību. Tas bij trakāk kā slimnīcas reanimācijas nodaļa. Mentāli smagāk. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Ļoti jānodala nodaļas. Un sākumā striktas psihoterapijas terapijas un konsultācijas un tad pēdējais variants tur slimnīcā. Un noteiktā nodaļā nevis depresīvs cilvēks, kuram dzīvē kāds notikums kuram jātiek pāri, kopā tiek salikts ar tanti, kas redz rēgus un baložus un runā ar viņiem un met iedomātu barību. Tas bija trakāk kā slimnīcas reanimācijas nodaļa. Mentāli smagāk. </span></p>
+</blockquote>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kā Jūs nokļuvāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kā Jūs nokļuvāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Šis ir kāda cita stāsts&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Šis ir kāda cita stāsts.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai medicīniskā aprūpe kopumā bija apmierinoša? (iespējamas vairākas atbildes) &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai medicīniskā aprūpe kopumā bija apmierinoša?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Neatrisināja ierašanās iemeslu&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Neatrisināja ierašanās iemeslu.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Man māsa bij pirms 20g apmeram&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Man māsa bija pirms apmēram 20 gadiem.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem <strong>nonākt </strong>tajā pašā nodaļā, kurā bijāt? </span></h4>
+<p class="msg msg--warning"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Nē</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kristīne</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/kristine/"/>
+        <id>https://biju.lv/kristine/</id>
+            <category term="Tvaika iela 2"/>
+            <category term="RPNC"/>
+            <category term="Jā"/>
+
+        <updated>2021-02-15T16:23:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Pārsteidza tas, cik skarbs bija personāls reģistratūrā - pirmo reizi apraudājos jau tur. Bieži mainīju ārstus personāla rotācijas dēļ, bieži mainīju arī zāles. Atmiņā palika tas, ka pirmajā vizītē prasīju, vai man vajadzētu meklēt arī terapeitu, uz ko atbilde bija noraidoša - ārstēties var un vajag tikai ar zālēm. Pēdējā vizīte bija pie dr. Ogsta, kur pirmoreiz sajutos tiešām uzklausīta un svarīga kā pacients. Šis ārsts ieteica man turpināt ārstēties terapijā, ko arī darīju. Jebkurā gadījumā tiem, kas šaubās, vai doties uz Tvaika ielu meklēt palīdzību, atbilde noteikti ir jā. Ambulatorā aprūpe ir bezmaksas, tāpēc arī rodas neliela konveijera sajūta, taču tas ir nesalīdzināmi labāk kā censties ar dažāda veida psihiskajiem traucējumiem tikt galā vienatnē vai ar 'priecīgu domu' palīdzību. Plānveidā, ar pierakstu. Pierakstījos pati, kad sapratu, ka baigi vairs nav spēka dzīvot. Apmierinoša, atrisināja ierašanās iemeslu, Pavirša - vizīte ilga piecas minūtes, kad jau tika izrakstīti antidepresanti. Tai pat laikā absolūti nestrīdos par to nepieciešamību. Reizi mēnesī apmeklēju ambulatoro nodaļu, lai pagarinātu medikamentu recepti. Ikmēneša vizītes turpinājās kādu 1-1.5 gadus. 2016./2017. gadā. Jā
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pārsteidza tas, cik skarbs bija personāls reģistratūrā - pirmo reizi apraudājos jau tur. Bieži mainīju ārstus  personāla rotācijas dēļ, bieži mainīju arī zāles. Atmiņā palika tas, ka pirmajā vizītē prasīju, vai man vajadzētu meklēt arī terapeitu, uz ko atbilde bija noraidoša - ārstēties var un vajag tikai ar zālēm. Pēdējā vizīte bija pie dr. Ogsta, kur pirmoreiz sajutos tiešām uzklausīta un svarīga kā pacients. Šis ārsts ieteica man turpināt ārstēties terapijā, ko arī darīju. Jebkurā gadījumā tiem, kas šaubās, vai doties uz Tvaika ielu meklēt palīdzību, atbilde noteikti ir jā. Ambulatorā aprūpe ir bezmaksas, tāpēc arī rodas neliela konveijera sajūta, taču tas ir nesalīdzināmi labāk kā censties ar dažāda veida psihiskajiem traucējumiem tikt galā vienatnē vai ar 'priecīgu domu' palīdzību. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pārsteidza tas, cik skarbs bija personāls reģistratūrā - pirmo reizi apraudājos jau tur. Bieži mainīju ārstus personāla rotācijas dēļ, bieži mainīju arī zāles. Atmiņā palika tas, ka pirmajā vizītē prasīju, vai man vajadzētu meklēt arī terapeitu, uz ko atbilde bija noraidoša - ārstēties var un vajag tikai ar zālēm. </span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pārsteidza tas, cik skarbs bija personāls reģistratūrā - pirmo reizi apraudājos jau tur. Bieži mainīju ārstus  personāla rotācijas dēļ, bieži mainīju arī zāles. Atmiņā palika tas, ka pirmajā vizītē prasīju, vai man vajadzētu meklēt arī terapeitu, uz ko atbilde bija noraidoša - ārstēties var un vajag tikai ar zālēm. Pēdējā vizīte bija pie dr. Ogsta, kur pirmoreiz sajutos tiešām uzklausīta un svarīga kā pacients. Šis ārsts ieteica man turpināt ārstēties terapijā, ko arī darīju. Jebkurā gadījumā tiem, kas šaubās, vai doties uz Tvaika ielu meklēt palīdzību, atbilde noteikti ir jā. Ambulatorā aprūpe ir bezmaksas, tāpēc arī rodas neliela konveijera sajūta, taču tas ir nesalīdzināmi labāk kā censties ar dažāda veida psihiskajiem traucējumiem tikt galā vienatnē vai ar 'priecīgu domu' palīdzību. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pēdējā vizīte bija pie dr. Ogsta, kur pirmoreiz sajutos tiešām uzklausīta un svarīga kā pacients. Šis ārsts ieteica man turpināt ārstēties terapijā, ko arī darīju. Jebkurā gadījumā tiem, kas šaubās, vai doties uz Tvaika ielu meklēt palīdzību, atbilde noteikti ir jā. Ambulatorā aprūpe ir bezmaksas, tāpēc arī rodas neliela konveijera sajūta, taču tas ir nesalīdzināmi labāk kā censties ar dažāda veida psihiskajiem traucējumiem tikt galā vienatnē vai ar 'priecīgu domu' palīdzību. </span></p>
+</blockquote>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kā Jūs nokļuvāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kā Jūs nokļuvāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Plānveidā, ar pierakstu&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Plānveidā, ar pierakstu.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kādā stāvoklī nonācāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kādā stāvoklī nonācāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pierakstījos pati, kad sapratu, ka baigi vairs nav spēka dzīvot &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pierakstījos pati, kad sapratu, ka baigi vairs nav spēka dzīvot.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai medicīniskā aprūpe kopumā bija apmierinoša? (iespējamas vairākas atbildes) &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai medicīniskā aprūpe kopumā bija apmierinoša?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Apmierinoša, Atrisināja ierašanās ieneslu, Pavirša - vizīte ilga piecas minūtes, kad jau tika izrakstīti antidepresanti. Tai pat laikā absolūti nestrīdos par to nepieciešamību&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Apmierinoša, atrisināja ierašanās iemeslu, Pavirša - vizīte ilga piecas minūtes, kad jau tika izrakstīti antidepresanti. Tai pat laikā absolūti nestrīdos par to nepieciešamību.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kurā nodaļā Jūs uzturējāties? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kurā nodaļā Jūs uzturējāties? </span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Reizi mēnesī apmeklēju ambulatoro nodaļu, lai pagarinātu medikamentu recepti &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Reizi mēnesī apmeklēju ambulatoro nodaļu, lai pagarinātu medikamentu recepti.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cik ilgu laiku uzturējāties slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Cik ilgu laiku uzturējāties slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ikmēneša vizītes turpinājās kādu 1-1.5 gadus&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Ikmēneša vizītes turpinājās kādu 1-1.5 gadus.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2016/17 gadā &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">2016./2017. gadā.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? </span></h4>
+<p class="msg--success msg"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Jā</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>G</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/g/"/>
+        <id>https://biju.lv/g/</id>
+            <category term="Tvaika iela 2"/>
+            <category term="RPNC"/>
+            <category term="Jā"/>
+            <category term="17. nodaļa"/>
+
+        <updated>2021-02-15T16:23:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Nodaļas vadītāja uzdevuma augstumos, bet personāls pa naktīm lietoja alkoholu. Kamēr visa nodaļa ārā pīpē vai pastaigā, tikmēr personāls pārrok visu somas un mantas. Ar neatliekamo medicīnisko palīdzību. Psihoze. Apmierinoša, atrisināja ierašanās iemeslu. 17. nodaļā. 30 dienas. 2 gadiem. Jā
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nodaļas vadītāja uzdevuma augstumos, bet personāls pa naktīm lietoja alkoholu. Kamēr visa nodaļa ārā pīpē vai pastaigā, tikmēr personāls pārrok visu somas un mantas. &quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Nodaļas vadītāja uzdevuma augstumos, bet personāls pa naktīm lietoja alkoholu. Kamēr visa nodaļa ārā pīpē vai pastaigā, tikmēr personāls pārrok visu somas un mantas. </span></p>
+</blockquote>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kā Jūs nokļuvāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kā Jūs nokļuvāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ar Neatliekamo medicīnisko palīdzību&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Ar neatliekamo medicīnisko palīdzību.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kādā stāvoklī nonācāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kādā stāvoklī nonācāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Adekvātā&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Psihoze.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai medicīniskā aprūpe kopumā bija apmierinoša? (iespējamas vairākas atbildes) &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai medicīniskā aprūpe kopumā bija apmierinoša?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pazemojoša&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Apmierinoša, atrisināja ierašanās iemeslu.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kurā nodaļā Jūs uzturējāties? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kurā nodaļā Jūs uzturējāties? </span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Atteicos no stacionēšanās&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">17. nodaļā.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cik ilgu laiku uzturējāties slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Cik ilgu laiku uzturējāties slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Atteicos no stacionēšanās&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">30 dienas.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirmā mana pieredze bija 2019.gada vasarā, otra 2020.gada vasarā&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">2 gadiem.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? </span></h4>
+<p class="msg--success msg"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Jā</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Anonīma</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/anonima/"/>
+        <id>https://biju.lv/anonima/</id>
+            <category term="Ļermontova iela 1"/>
+            <category term="Tvaika iela 2"/>
+            <category term="RPNC"/>
+            <category term="Nē"/>
+
+        <updated>2021-02-15T16:24:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Man ir diagnosticēta vidēji smaga depresija. Ir brīži, kad jūtos labāk un ir brīži - kad sliktāk. Apmeklēju psihiatru, dzeru zāles un vairāk nekā pusgadu strādāju ar psihoterapeitu. Esmu vecuma grupā 25-30 gadi. Manā dzīvē bija divas reizes, kad tuvi cilvēki izsauca NMPD. Pirmajā reizē 2019.gadā man bija slikts garīgs stāvoklis, raudāju un teicu, ka nevēlos dzīvot, taču reāli draudi manai dzīvībai nebija. Tomēr līdzcilvēks, kurš ar mani sazinājās attālināti tobrīd, sabijās par manu slikto pašsajūtu un izsauca NMPD. Pie manis ieradās t.s. ātrie un policija. Policija izturējās ļoti laipni, savukārt ātrie bija neiejūtīgi un netaktiski. Lai gan izturējos adekvāti un uz to brīdi biju savākusi sevi rokās, viņi mani piespieda braukt uz Tvaika ielas uzņemšanu, jo pateica, ka manu stāvokli novērtēs dežūrējošais ārsts. Neļāva ņemt nekādas mantas līdzi, neļāva pārģērbties. Nonākot Tvaika ielā, mani iztaujāja medicīnas personāls, kuru uzvedību es sauktu par normālu, neitrālu. Secināja, ka neesmu alkohola reibumā utt. Atnāca dežurējošais ārsts un pat nepaskatoties uz mani, pateica "stacionējam". Nebija nekādas sarunas ar man! Es iebildu, bet manī ārsts neklausījās. Paralēli visai notikumu gaitai, pie slimnīcas piebrauca mans tēvs un tikai pateicoties tēva iesaistei izdevās panākt, ka mani nestacionē. Viņš ļoti uzstājīgi skaidroja, ka ar mani viss būs kārtībā. Tēvam bija jāparaksta papīrs, ka uzņemas atbildību par mani, kā arī man iedeva lapu par atteikumu no stacionēšanās. Otrajā reizē 2020.gadā sliktajā pašsajūtas brīdī pārdozēju zāles. Cilvēks, kurš zināja par manu slikto pašsajūtu, nevarēdams mani sakomunicēt, piezvanīja ātrajiem. Atbrauca ātrie un policija. Attieksme no abiem dienestiem bija ļoti slikta, nelaipna, nepatīkama. Es biju pie samaņas, taču tādā kā stiprā reibuma stāvoklī (alkohols nebija lietots). Nekādas mantas neļāva ņemt līdzi. Aizveda uz Gaiļezeru, pielika pie sistēmas. Pēc vairākām stundām secināja, ka mans stāvoklis ir uzlabojies un nav iemesla mani paturēt slimnīcā. Es centos sarunāt, ka braukšu mājās (mani varēja aizvest&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Man ir diagnosticēta vidēji smaga depresija. Ir brīži, kad jūtos labāk un ir brīži - kad sliktāk. Apmeklēju psihiatru, dzeru zāles un vairāk nekā pusgadu strādāju ar psihoterapeitu. Esmu vecuma grupā 25-30 gadi. Manā dzīvē bija divas reizes, kad tuvi cilvēki izsauca NMPD. \n\nPirmajā reizē 2019.gadā man bija slikts garīgs stāvoklis, raudāju un teicu, ka nevēlos dzīvot, taču reāli draudi manai dzīvībai nebija. Tomēr līdzcilvēks, kurš ar mani sazinājās attālināti tobrīd, sabijās par manu slikto pašsajūtu un izsauca NMPD. Pie manis ieradās t.s. ātrie un policija. Policija izturējās ļoti laipni, savukārt ātrie bija neiejūtīgi un netaktiski. Lai gan izturējos adekvāti un uz to brīdi biju savākusi sevi rokās, viņi mani piespieda braukt uz Tvaika ielas uzņemšanu, jo pateica, ka manu stāvokli novērtēs dežūrējošais ārsts. Neļāva ņemt nekādas mantas līdzi, neļāva pārģērbties. Nonākot Tvaika ielā, mani iztaujāja medicīnas personāls, kuru uzvedību es sauktu par normālu, neitrālu. Secināja, ka neesmu alkohola reibumā utt. Atnāca dežurējošais ārsts un pat nepaskatoties uz mani, pateica \&quot;stacionējam\&quot;. Nebija nekādas sarunas ar man! Es iebildu, bet manī ārsts neklausījās. Paralēli visai notikumu gaitai, pie slimnīcas piebrauca mans tēvs un tikai pateicoties tēva iesaistei izdevās panākt, ka mani nestacionē. Viņš ļoti uzstājīgi skaidroja, ka ar mani viss būs kārtībā. Tēvam bija jāparaksta papīrs, ka uzņemas atbildību par mani, kā arī man iedeva lapu par atteikumu no stacionēšanās.\n\nOtrajā reizē 2020.gadā sliktajā pašsajūtas brīdī pārdozēju zāles. Cilvēks, kurš zināja par manu slikto pašsajūtu, nevarēdams mani sakomunicēt, piezvanīja ātrajiem. Atbrauca ātrie un policija. Attieksme no abiem dienestiem bija ļoti slikta, nelaipna, nepatīkama. Es biju pie samaņas, taču tādā kā stiprā reibuma stāvoklī (alkohols nebija lietots). Nekādas mantas neļāva ņemt līdzi. Aizveda uz Gaiļezeru, pielika pie sistēmas. Pēc vairākām stundām secināja, ka mans stāvoklis ir uzlabojies un nav iemesla mani paturēt slimnīcā. Es centos sarunāt, ka braukšu mājās (mani varēja aizvest tuvinieki), bet manī neklausījās un ar ātrajiem aizveda uz Tvaika ielu. Pirms tam Gaiļezera ārste kaunināja mani, ka esmu pašnāvniece un visa mana turpmākā dzīve ir sabojāta, jo šis ieraksts vienmēr nāks man līdzi. Tvaika ielā medicīnas personāls izturējās neitrāli, bet dežurējošā ārste (cita, ne tā, kas 2019.gadā) atkal neieklausījās. Es pastāstīju visu situāciju un to, ka par mani parūpēsies tuvinieki, kas mani gaida pie slimnīcas. Teicu, ka sāku apmeklēt psihoterapeitu nesen, apmeklēju psihiatru, man drīzumā ir pieraksti, ka nožēloju izdarīto un neplānotu vairs ko tādu veikt. Manī neklausījās un teica, ka mani stacionēs. Es iebildu, uz ko saņēmu norādi, ka viņiem ir tiesības pēc likuma mani aizturēt uz 72h. Biju izmisusi un sāku raudāt no šādas attieksmes, uz ko pretī saņēmu tādus apgalvojumus, ka \&quot;redzi, nav viss ar tevi normāli\&quot; utt, kaut gan tās bija bailes no pašas ārstes.. Es sazvanīju tēvu, kurš gaidīja pie slimnīcas, un ar ļoti lielām grūtībām mēs panācām to, ka mani izlaiž ārā pret mani un tēva parakstu.\n\nEs nevēlētos palikt Tvaika ielā, jo no visiem cilvēkiem, tai skaitā psihiatriem un psihoterapeitiem, dzirdēju, ka ir labākas alternatīvas - Ļermontova un Veldres iela, un ka Tvaika ielā ir ļoti veclaicīga pieeja pacientiem. Man ir ļoti bail no sliktas attieksmes pret sevi un tā es sajutos uzņemšanā - es jūtu, ka mani neņem vērā, uzskata, ka neesmu pie pilna prāta, ka man nav sava viedokļa, ka es neko nesaprotu, ka es nevaru pati pieņemt lēmumus. Dežūrējošie ārsti necentās izprast situāciju, neradīja labu iespaidu par Tvaika ielu, vēl vairāk - piedraudēja ar aizturēšanu. Jutos kā filmās, kur psihoneiroloģiskās slimnīcas attēlotas kā cietumi. Domāju, ka tur esot mans stāvoklis tikai pasliktinātos.\n\nVēlāk es pati pieteicos Ļermontova ielai un par to man ir tikai labākās atsauksmes. Visi laipni, ieinteresēti, telpas modernas, ēdiens garšīgs. Varēja aiziet prom no turienes, kad pašai gribējās, neviens nemēģināja aizturēt.&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Man ir diagnosticēta vidēji smaga depresija. Ir brīži, kad jūtos labāk un ir brīži - kad sliktāk. Apmeklēju psihiatru, dzeru zāles un vairāk nekā pusgadu strādāju ar psihoterapeitu. Esmu vecuma grupā 25-30 gadi. Manā dzīvē bija divas reizes, kad tuvi cilvēki izsauca NMPD. <br><br>Pirmajā reizē 2019.gadā man bija slikts garīgs stāvoklis, raudāju un teicu, ka nevēlos dzīvot, taču reāli draudi manai dzīvībai nebija. Tomēr līdzcilvēks, kurš ar mani sazinājās attālināti tobrīd, sabijās par manu slikto pašsajūtu un izsauca NMPD. Pie manis ieradās t.s. ātrie un policija. Policija izturējās ļoti laipni, savukārt ātrie bija neiejūtīgi un netaktiski. Lai gan izturējos adekvāti un uz to brīdi biju savākusi sevi rokās, viņi mani piespieda braukt uz Tvaika ielas uzņemšanu, jo pateica, ka manu stāvokli novērtēs dežūrējošais ārsts. Neļāva ņemt nekādas mantas līdzi, neļāva pārģērbties. Nonākot Tvaika ielā, mani iztaujāja medicīnas personāls, kuru uzvedību es sauktu par normālu, neitrālu. Secināja, ka neesmu alkohola reibumā utt. Atnāca dežurējošais ārsts un pat nepaskatoties uz mani, pateica "stacionējam". Nebija nekādas sarunas ar man! Es iebildu, bet manī ārsts neklausījās. Paralēli visai notikumu gaitai, pie slimnīcas piebrauca mans tēvs un tikai pateicoties tēva iesaistei izdevās panākt, ka mani nestacionē. Viņš ļoti uzstājīgi skaidroja, ka ar mani viss būs kārtībā. Tēvam bija jāparaksta papīrs, ka uzņemas atbildību par mani, kā arī man iedeva lapu par atteikumu no stacionēšanās.<br><br>Otrajā reizē 2020.gadā sliktajā pašsajūtas brīdī pārdozēju zāles. Cilvēks, kurš zināja par manu slikto pašsajūtu, nevarēdams mani sakomunicēt, piezvanīja ātrajiem. Atbrauca ātrie un policija. Attieksme no abiem dienestiem bija ļoti slikta, nelaipna, nepatīkama. Es biju pie samaņas, taču tādā kā stiprā reibuma stāvoklī (alkohols nebija lietots). Nekādas mantas neļāva ņemt līdzi. Aizveda uz Gaiļezeru, pielika pie sistēmas. Pēc vairākām stundām secināja, ka mans stāvoklis ir uzlabojies un nav iemesla mani paturēt slimnīcā. Es centos sarunāt, ka braukšu mājās (mani varēja aizvest tuvinieki), bet manī neklausījās un ar ātrajiem aizveda uz Tvaika ielu. Pirms tam Gaiļezera ārste kaunināja mani, ka esmu pašnāvniece un visa mana turpmākā dzīve ir sabojāta, jo šis ieraksts vienmēr nāks man līdzi. Tvaika ielā medicīnas personāls izturējās neitrāli, bet dežurējošā ārste (cita, ne tā, kas 2019.gadā) atkal neieklausījās. Es pastāstīju visu situāciju un to, ka par mani parūpēsies tuvinieki, kas mani gaida pie slimnīcas. Teicu, ka sāku apmeklēt psihoterapeitu nesen, apmeklēju psihiatru, man drīzumā ir pieraksti, ka nožēloju izdarīto un neplānotu vairs ko tādu veikt. Manī neklausījās un teica, ka mani stacionēs. Es iebildu, uz ko saņēmu norādi, ka viņiem ir tiesības pēc likuma mani aizturēt uz 72h. Biju izmisusi un sāku raudāt no šādas attieksmes, uz ko pretī saņēmu tādus apgalvojumus, ka "redzi, nav viss ar tevi normāli" utt, kaut gan tās bija bailes no pašas ārstes.. Es sazvanīju tēvu, kurš gaidīja pie slimnīcas, un ar ļoti lielām grūtībām mēs panācām to, ka mani izlaiž ārā pret mani un tēva parakstu.<br><br>Es nevēlētos palikt Tvaika ielā, jo no visiem cilvēkiem, tai skaitā psihiatriem un psihoterapeitiem, dzirdēju, ka ir labākas alternatīvas - Ļermontova un Veldres iela, un ka Tvaika ielā ir ļoti veclaicīga pieeja pacientiem. Man ir ļoti bail no sliktas attieksmes pret sevi un tā es sajutos uzņemšanā - es jūtu, ka mani neņem vērā, uzskata, ka neesmu pie pilna prāta, ka man nav sava viedokļa, ka es neko nesaprotu, ka es nevaru pati pieņemt lēmumus. Dežūrējošie ārsti necentās izprast situāciju, neradīja labu iespaidu par Tvaika ielu, vēl vairāk - piedraudēja ar aizturēšanu. Jutos kā filmās, kur psihoneiroloģiskās slimnīcas attēlotas kā cietumi. Domāju, ka tur esot mans stāvoklis tikai pasliktinātos.<br><br>Vēlāk es pati pieteicos Ļermontova ielai un par to man ir tikai labākās atsauksmes. Visi laipni, ieinteresēti, telpas modernas, ēdiens garšīgs. Varēja aiziet prom no turienes, kad pašai gribējās, neviens nemēģināja aizturēt.</span></p>
+</blockquote>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kā Jūs nokļuvāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kā Jūs nokļuvāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ar Neatliekamo medicīnisko palīdzību&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Ar neatliekamo medicīnisko palīdzību.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kādā stāvoklī nonācāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kādā stāvoklī nonācāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Adekvātā&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Adekvātā.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai medicīniskā aprūpe kopumā bija apmierinoša? (iespējamas vairākas atbildes) &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai medicīniskā aprūpe kopumā bija apmierinoša?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pazemojoša&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pazemojoša.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kurā nodaļā Jūs uzturējāties? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kurā nodaļā Jūs uzturējāties? </span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Atteicos no stacionēšanās&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Atteicos no stacionēšanās.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cik ilgu laiku uzturējāties slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Cik ilgu laiku uzturējāties slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Atteicos no stacionēšanās&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Atteicos no stacionēšanās.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirmā mana pieredze bija 2019.gada vasarā, otra 2020.gada vasarā&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pirmā mana pieredze bija 2019.gada vasarā, otra 2020.gada vasarā.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? </span></h4>
+<p class="msg msg--warning"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Nē</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Zai.</title>
+        <author>
+            <name>es</name>
+        </author>
+        <link href="https://biju.lv/zai/"/>
+        <id>https://biju.lv/zai/</id>
+            <category term="Tvaika iela 2"/>
+            <category term="RPNC"/>
+            <category term="Nē"/>
+            <category term="15. nodaļa"/>
+
+        <updated>2021-02-15T16:25:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Nekāda privātuma, ne mirkli iespējas būt vienam, pat tualetē. Sanitāri kliedz par katru sīkumu. Mazgāties drīkst tikai konkrētā laikā. Šis ir kāda cita stāsts. Šizofrēnijas recidīvs. Pazemojoša. 15. nodaļā. 15 dienas. Oktobrī. Nē
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nekāda privātuma, ne mirkli iespējas būt vienam, pat wc.\nSanitāri kliedz par katru sīkumu\nMazgāties drīkst tikai konkrētā laikā&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Nekāda privātuma, ne mirkli iespējas būt vienam, pat tualetē. Sanitāri kliedz par katru sīkumu. Mazgāties drīkst tikai konkrētā laikā.</span></p>
+</blockquote>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kā Jūs nokļuvāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kā Jūs nokļuvāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Šis ir kāda cita stāsts&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Šis ir kāda cita stāsts.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kādā stāvoklī nonācāt psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kādā stāvoklī nonācāt psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Šizofrēnijas recidīvs&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Šizofrēnijas recidīvs.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai medicīniskā aprūpe kopumā bija apmierinoša? (iespējamas vairākas atbildes) &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai medicīniskā aprūpe kopumā bija apmierinoša?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pazemojoša&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pazemojoša.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kurā nodaļā Jūs uzturējāties? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kurā nodaļā Jūs uzturējāties? </span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17.nodaļā&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">15. nodaļā.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cik ilgu laiku uzturējāties slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Cik ilgu laiku uzturējāties slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 dienas&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">15 dienas.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Oktobrī&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Oktobrī.</span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? </span></h4>
+<p class="msg msg--warning"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Nē</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A</title>
         <author>
@@ -18,9 +213,10 @@
         <id>https://biju.lv/a/</id>
             <category term="Tvaika iela 2"/>
             <category term="RPNC"/>
+            <category term="Nē"/>
             <category term="17. nodaļa"/>
 
-        <updated>2021-02-15T15:22:16+02:00</updated>
+        <updated>2021-02-15T16:22:49+02:00</updated>
             <summary>
                 <![CDATA[
                     Iestājoties slimnīcā, izstāstīju uzņemšanas nodaļas ārstei par pašnāvības mēģinājumu pirms pāris dienām, par ko uz mani sāka kliegt un teica, ka varēju palikt par invalīdi un tad būtu tuviniekiem uz kakla un apgrūtinājums, kas pašnāvības domām un nomāktībai noteikti nepalīdzēja. Nonācu slimnīcā gripas epidēmijas laikā un līdz ar to nevarēju nevienu satikt, nenotika nodarbības, tikai saņēmu zāles trīs reizes dienā. Ārstu nedēļas laikā redzēju divas reizes. Esot slimnīcā, stāvoklis pasliktinājās, biju daudz nomāktāka nekā iestājoties slimnīcā, ļoti daudz raudāju un gulēju. Visi citi pacienti bija vecākas kundzes un diezgan atbalstošas, bet jutos ļoti vientuļa, jo nebija, ar ko parunāties un arī ārstu principā neredzēju. Savu pieredzi slimnīcā un sajūtas nedaudz aprakstīju arī blogā aptiekasiela.tumblr.com Ar neatliekamo medicīnisko palīdzību. Dienas stacionārā Ļermontova ielā vizītes laikā pie psihiatra norādīju par ļoti izteiktām domām par pašnāvību un bailēm, ka netikšu ar sevi galā, ārsts izsauca NMPD un mani nogādāja Tvaika ielā. Ierados ļoti nomākta, bet diezgan stabilā stāvoklī. Neapmierinoša. 17. nodaļā. 1 nedēļu (izrakstījos pēc pašas vēlmes). 2017. gadā. Nē
@@ -57,11 +253,12 @@
         <id>https://biju.lv/stirna/</id>
             <category term="Tvaika iela 2"/>
             <category term="RPNC"/>
+            <category term="Nē"/>
 
-        <updated>2021-02-15T13:59:46+02:00</updated>
+        <updated>2021-02-15T16:22:39+02:00</updated>
             <summary>
                 <![CDATA[
-                    Atkarībā no personāla, dažreiz iejūtīga attieksme, citreiz ne. Piespiešana pie gultas ilglaicīgi, siltas segas trūkums. Ne vienmēr tika paskaidrots, ko ar mani darīs un, kur vedīs. Ar neatliekamo medicīnisko palīdzību. Smagā, ne pie apziņas. Apmierinoša. Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes, depresijas, šizofrēnijas, u.tml. 3 mēnešus Pirms 13 gadiem Nē
+                    Atkarībā no personāla, dažreiz iejūtīga attieksme, citreiz ne. Piespiešana pie gultas ilglaicīgi, siltas segas trūkums. Ne vienmēr tika paskaidrots, ko ar mani darīs un, kur vedīs. Ar neatliekamo medicīnisko palīdzību. Smagā, ne pie apziņas. Apmierinoša. Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes, depresijas, šizofrēnijas, u.tml. 3 mēnešus. Pirms 13 gadiem. Nē
                 ]]>
             </summary>
         <content type="html">
@@ -78,9 +275,9 @@
 <h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kurā nodaļā Jūs uzturējāties? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Kurā nodaļā Jūs uzturējāties? </span></h4>
 <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes, depresijas, šizofrēnijas, utml&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Neatceros nodaļas nosaukumu. Palātas nosaukums bija novērošanas palāta. Nodaļa, kur nonāca daudz dažādu gadījumu, psihozes, depresijas, šizofrēnijas, u.tml.</span></p>
 <h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cik ilgu laiku uzturējāties slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Cik ilgu laiku uzturējāties slimnīcā?</span></h4>
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 mēnešus&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">3 mēnešus</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 mēnešus&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">3 mēnešus.</span></p>
 <h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Pirms cik ilga laika uzturējāties psihiatriskajā slimnīcā?</span></h4>
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms 13 gadiem&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pirms 13 gadiem</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pirms 13 gadiem&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0}">Pirms 13 gadiem.</span></p>
 <h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? &quot;}" data-sheets-userformat="{&quot;2&quot;:256,&quot;11&quot;:4}">Vai ieteiktu citiem nonākt tajā pašā nodaļā, kurā bijāt? </span></h4>
 <p class="msg msg--warning"><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Nē</strong></p>
             ]]>
