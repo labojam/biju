@@ -3,7 +3,7 @@
     <title>es tur biju.</title>
     <link href="https://biju.lv/feed.xml" rel="self" />
     <link href="https://biju.lv" />
-    <updated>2021-02-15T15:13:25+02:00</updated>
+    <updated>2021-02-15T15:22:45+02:00</updated>
     <author>
         <name>es</name>
     </author>
@@ -14,13 +14,13 @@
         <author>
             <name>es</name>
         </author>
-        <link href="https://biju.lv/stirna-2/"/>
-        <id>https://biju.lv/stirna-2/</id>
+        <link href="https://biju.lv/a/"/>
+        <id>https://biju.lv/a/</id>
             <category term="Tvaika iela 2"/>
             <category term="RPNC"/>
             <category term="17. nodaļa"/>
 
-        <updated>2021-02-15T15:13:25+02:00</updated>
+        <updated>2021-02-15T15:22:16+02:00</updated>
             <summary>
                 <![CDATA[
                     Iestājoties slimnīcā, izstāstīju uzņemšanas nodaļas ārstei par pašnāvības mēģinājumu pirms pāris dienām, par ko uz mani sāka kliegt un teica, ka varēju palikt par invalīdi un tad būtu tuviniekiem uz kakla un apgrūtinājums, kas pašnāvības domām un nomāktībai noteikti nepalīdzēja. Nonācu slimnīcā gripas epidēmijas laikā un līdz ar to nevarēju nevienu satikt, nenotika nodarbības, tikai saņēmu zāles trīs reizes dienā. Ārstu nedēļas laikā redzēju divas reizes. Esot slimnīcā, stāvoklis pasliktinājās, biju daudz nomāktāka nekā iestājoties slimnīcā, ļoti daudz raudāju un gulēju. Visi citi pacienti bija vecākas kundzes un diezgan atbalstošas, bet jutos ļoti vientuļa, jo nebija, ar ko parunāties un arī ārstu principā neredzēju. Savu pieredzi slimnīcā un sajūtas nedaudz aprakstīju arī blogā aptiekasiela.tumblr.com Ar neatliekamo medicīnisko palīdzību. Dienas stacionārā Ļermontova ielā vizītes laikā pie psihiatra norādīju par ļoti izteiktām domām par pašnāvību un bailēm, ka netikšu ar sevi galā, ārsts izsauca NMPD un mani nogādāja Tvaika ielā. Ierados ļoti nomākta, bet diezgan stabilā stāvoklī. Neapmierinoša. 17. nodaļā. 1 nedēļu (izrakstījos pēc pašas vēlmes). 2017. gadā. Nē
@@ -87,7 +87,7 @@
         </content>
     </entry>
     <entry>
-        <title>Es esmu cilvēks un es tur biju.</title>
+        <title>Es esmu cilvēks.</title>
         <author>
             <name>es</name>
         </author>
@@ -95,16 +95,8 @@
         <id>https://biju.lv/es/</id>
             <category term="Raksti"/>
 
-        <updated>2021-02-15T14:04:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Kas ir biju.lv?
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Kas ir biju.lv?</p>
-            ]]>
-        </content>
+        <updated>2021-02-15T15:22:45+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
