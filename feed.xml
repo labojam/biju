@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Es tur biju.</title>
-    <link href="https://biju.lv/feed.xml" rel="self" />
-    <link href="https://biju.lv" />
+    <link href="http://biju.lv/feed.xml" rel="self" />
+    <link href="http://biju.lv" />
     <updated>2021-02-15T14:04:19+02:00</updated>
     <author>
         <name>es</name>
     </author>
-    <id>https://biju.lv</id>
+    <id>http://biju.lv</id>
 
     <entry>
         <title>Stirna</title>
         <author>
             <name>es</name>
         </author>
-        <link href="https://biju.lv/stirna/"/>
-        <id>https://biju.lv/stirna/</id>
+        <link href="http://biju.lv/stirna/"/>
+        <id>http://biju.lv/stirna/</id>
             <category term="Tvaika iela 2"/>
             <category term="RPNC"/>
 
@@ -52,8 +52,8 @@
         <author>
             <name>es</name>
         </author>
-        <link href="https://biju.lv/es/"/>
-        <id>https://biju.lv/es/</id>
+        <link href="http://biju.lv/es/"/>
+        <id>http://biju.lv/es/</id>
             <category term="Raksti"/>
 
         <updated>2021-02-15T14:04:19+02:00</updated>
